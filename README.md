@@ -21,6 +21,19 @@ create file server.js
 
 create file db.json
 
+```json
+    [
+      {
+        "id": "1",
+        "name": "Game of thrones"
+      },
+      {
+        "id": "2",
+        "name": "Clash of kings"
+      }
+    ]
+```
+
 Run application
 
     node server.js
