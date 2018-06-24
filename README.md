@@ -34,6 +34,13 @@ create file db.json
     ]
 ```
 
+Install middleware for parse body message
+
+    npm install body-parser --save
+
+    Middleware 
+    Filter request  before arriving at our application. use >> app.use() 
+
 Run application
 
     node server.js
