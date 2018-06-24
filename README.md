@@ -1,6 +1,6 @@
 # kb-nodejs
 
-# ทำ RESTful API api ด้วย Node.js และ Express  อย่างง่าย
+# ทำ RESTful API ด้วย Node.js และ Express อย่างง่าย
 
 Express คือ web application framework บน Node.js
 
