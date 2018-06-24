@@ -16,7 +16,7 @@ create file db.json
 
 Sample source code in file server.js
 
-'''' javascript
+```javascript
 const express = require('express')
 const app = express()
 const books = require('./db')
@@ -63,8 +63,7 @@ app.listen(13000, () => {
     console.log('Start server at port 13000.')
 })
 
-
-''''
+```
 
 
 ต้องศึกษาเพิ่มเติม
