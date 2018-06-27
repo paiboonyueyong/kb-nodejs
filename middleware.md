@@ -9,7 +9,7 @@ A process manager is somewhat like an application server: it’s a “container�
 
 The most popular process managers for Express and other Node.js applications are as follows:
 
-Forever
-PM2
-StrongLoop Process Manager
-SystemD
+* Forever
+* PM2
+* StrongLoop Process Manager
+* SystemD
