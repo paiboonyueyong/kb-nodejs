@@ -2,6 +2,7 @@
 # How to process big file 
 ## read file from text file and insert to mongodb
 
+```javascript
 var MongoClient = require('mongodb').MongoClient;
 var url = "mongodb://localhost:27017/";
 
@@ -95,3 +96,4 @@ var filename = process.argv[2];
 console.log("filename=" + filename);
 processBigFile(filename);
 
+```
