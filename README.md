@@ -97,6 +97,9 @@ app.listen(13000, () => {
 
 ```
 
+# How to list npm user-installed packages?
+npm list -g --depth=0
+
 
 ## ศึกษาเพิ่มเติม
 * การ handle errors เช่น ถ้าเซฟลง database ไม่ได้จะส่ง response ไปบอกอย่างไร
